@@ -32,6 +32,3 @@ Upload an MP3 file, edit its metadata (title, artist, album, year, genre, track 
 5. Click **"Save & Download"** to download a new MP3 with updated tags.
 
 Note: The app works completely offline. Your MP3 never leaves your computer.
-
-## 📂 Project Structure
-
